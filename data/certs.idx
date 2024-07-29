@@ -1,0 +1,6 @@
+# This is an example certs.idx file.
+# It maps certificate identifiers to their respective data in the certs.ar file.
+# Format: <Certificate Identifier> <Offset in certs.ar> <Length in certs.ar>
+
+cert1 0 1234
+cert2 1234 5678
